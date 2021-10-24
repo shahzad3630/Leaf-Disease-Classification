@@ -29,4 +29,4 @@ The four disease classes that model has been trained are 'Cassava Bacterial Blig
 The dataset has been taken from kaggle:
 https://www.kaggle.com/c/cassava-leaf-disease-classification/
 
-An image lassifier model was trained on the images with given labels that gave <b>83% accuracy</b> on test data.
+An image classifier model was trained on the images with given labels that gave <b>83% accuracy</b> on test data.
