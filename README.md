@@ -12,19 +12,21 @@ We have trained a model that can take an image and classify it into 4 categories
 The four disease classes that model has been trained are 'Cassava Bacterial Blight (CBB)', 'Cassava Brown Streak Disease (CBSD)', 'Cassava Green Mottle (CGM)', 'Cassava Mosaic Disease (CMD)'
 
 ### Below gives the cassava plant images for corresponding disease
-'Cassava Bacterial Blight (CBB)' disease class:
+<b>'Cassava Bacterial Blight (CBB)' disease class:</b>
 ![0 (1)](https://user-images.githubusercontent.com/87579053/138605437-0cb56e13-2879-41bd-899f-f7420fb430ad.png)
 
-'Cassava Brown Streak Disease (CBSD)' disease class:
+<b>'Cassava Brown Streak Disease (CBSD)' disease class:</b>
 ![1 (1)](https://user-images.githubusercontent.com/87579053/138605449-c7d64d2d-d8a1-4aab-95e4-327704ad09fe.png)
 
-'Cassava Green Mottle (CGM)' disease class:
+<b>'Cassava Green Mottle (CGM)' disease class:</b>
 ![2 (1)](https://user-images.githubusercontent.com/87579053/138605463-95510dc6-a5b8-4840-93cc-7ab53be4e32d.png)
 
-'Cassava Mosaic Disease (CMD)' disease class:
+<b>'Cassava Mosaic Disease (CMD)' disease class:</b>
 ![3 (1)](https://user-images.githubusercontent.com/87579053/138605471-21c2c55e-9f2f-449c-8b61-44141cb71ab1.png)
+
+<br>
 
 The dataset has been taken from kaggle:
 https://www.kaggle.com/c/cassava-leaf-disease-classification/
 
-Deep Learning model was trained on the images with given labels that gave 83% accuracy on test data.
+Deep Learning model was trained on the images with given labels that gave <b>83% accuracy</b> on test data.
