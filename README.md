@@ -1,5 +1,5 @@
-# Cassava-Leaf-Disease-Classification
-Classifying the cassava image with corresponding disease label, where image is taken from the fields
+# Leaf-Disease-Classification
+Classifying the cassava leaves image with corresponding disease label, where image is taken from the fields
 
 ![1_YFCXrUhiam2uR2JuMooPGw](https://user-images.githubusercontent.com/87579053/138604664-3c55f84b-7a04-4262-8af8-c026b4752670.png)
 
